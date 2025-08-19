@@ -1,0 +1,49 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">I'm renting for a weekend project. When is the best time to call?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For weekend projects, we recommend calling as early as possible on Friday or even Saturday morning. The earlier you call, the better we can accommodate your schedule and help you maximize your productive weekend hours.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is included in the price you quote me?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our roll off dumpster rental cost is designed to be transparent. The price we quote you includes the delivery of the dumpster, the pickup of the full dumpster, a standard rental period, and all landfill and disposal fees up to the specified weight limit.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How does the payment process work? Do I pay upfront or after?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">To reserve your dumpster and schedule your delivery, we require payment at the time of booking. We accept all major credit cards for a simple and secure transaction.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I’m a contractor. Can I set up a commercial account with you?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, absolutely. We specialize in building long-term partnerships with contractors. A commercial account can streamline your ordering process, offer flexible billing options, and ensure you have priority service for all your job sites.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I have a very steep driveway. Can you place a dumpster on it?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For safety reasons, we cannot place a dumpster on a significant incline. The surface must be reasonably level to ensure the roll off container is stable and does not pose a roll-away risk. Our team can discuss placement options with you when you call.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is it okay to put old furniture and appliances in the same dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most furniture is perfectly fine. However, appliances like refrigerators, freezers, and air conditioners contain refrigerants (Freon) and cannot be placed in the dumpster unless they have been professionally drained and tagged by a certified technician.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
